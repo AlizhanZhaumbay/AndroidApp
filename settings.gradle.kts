@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Recycle View"
 include(":app")
+include(":app:retrofit")
+include(":retrofit")
